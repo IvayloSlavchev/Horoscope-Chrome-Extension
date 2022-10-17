@@ -1,0 +1,11 @@
+{
+    "name": "Horoscope for today",
+    "version" : "1.0.0",
+    "description" : "This is an extension to look at your horoscope",
+    "author" : "Me :D",
+    "manifest_version": 3,
+    "action": {
+        "default_popup" : "index.html",
+        "default_title" : ""
+    }
+}

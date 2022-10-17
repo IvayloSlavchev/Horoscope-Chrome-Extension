@@ -1,0 +1,8 @@
+#compatibility{
+    text-align: center;
+}
+li{
+    list-style: none;
+    padding-right: 9rem;
+    width: 100%;
+}
